@@ -1,0 +1,1 @@
+This folder contains my 41 incident verdicts completed during the MyFirstHack virtual SOC internship
